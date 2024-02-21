@@ -159,5 +159,5 @@ def fun():
 
 
 
-def fun():
+def fun4():
     return 6

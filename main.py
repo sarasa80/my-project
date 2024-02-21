@@ -159,5 +159,8 @@ def fun():
 
 
 
-def fun4():
-    return 6
+def fun4(a,b):
+    return a/b
+
+a,b=int(input()),int(input())
+print(fun4(a,b))
